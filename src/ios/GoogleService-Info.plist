@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>861378867337-jrq39b1t2r5ockkgdinl747c7a363eba.apps.googleusercontent.com</string>
+	<string>451402146656-5mo1msuieru586l9tos02b2spsk0abdr.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.861378867337-jrq39b1t2r5ockkgdinl747c7a363eba</string>
+	<string>com.googleusercontent.apps.451402146656-5mo1msuieru586l9tos02b2spsk0abdr</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA8E_eKICrvyuPk7SWtFMOe68G1tyoiRno</string>
+	<string>AIzaSyB-jx05QH8z9anVKokoAm5ESYQesG_sZ7A</string>
 	<key>GCM_SENDER_ID</key>
-	<string>861378867337</string>
+	<string>451402146656</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.proj.cuik</string>
 	<key>PROJECT_ID</key>
-	<string>cuik-3edb2</string>
+	<string>cuik-dev</string>
 	<key>STORAGE_BUCKET</key>
-	<string>cuik-3edb2.appspot.com</string>
+	<string>cuik-dev.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:861378867337:ios:527e7eb7f0f62a36</string>
+	<string>1:451402146656:ios:527e7eb7f0f62a36</string>
 	<key>DATABASE_URL</key>
-	<string>https://cuik-3edb2.firebaseio.com</string>
+	<string>https://cuik-dev.firebaseio.com</string>
 </dict>
 </plist>
